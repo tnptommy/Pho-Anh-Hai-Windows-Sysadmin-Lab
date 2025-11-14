@@ -9,6 +9,12 @@ The goal:
 ✔ Build a professional portfolio project  
 ✔ Simulate the IT system of a small restaurant chain
 
+✨ All configuration steps, screenshots, and topology diagrams are included below.
+
+# Network Topology
+![Topology](screenshots/35_Topology_Diagram.png)
+
+
 ---
 
 # 1. 📡 Network Setup
